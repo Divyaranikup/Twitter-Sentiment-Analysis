@@ -1,0 +1,17 @@
+                                           text                                                                                 emotion  polarity
+1  china tells trump climate change is not a hoax and america mentioned it firstclimatechange trump hoax                        unknown   neutral
+2  exclusive donald trumps picks for attorney general                                                                           unknown  positive
+3  trump didnt bullyher own fans did by the s of thousands                                                                      unknown  positive
+4  could the electoral college elect hillary clinton instead of donald trump                                                    unknown  positive
+5  donald trumpmac miller                                                                                                       unknown  positive
+6  wanda sykes goes off on crowd after being booed for criticizing donald trumpsee her nsfw rant amp response                   unknown  negative    
+7  id say donald trump smells like cheetos                                                                                          joy  positive
+8  things donald trump wants to do not conditional the white house will be vacant for his term as president he wont last        unknown  positive 
+9  thanks to trump were going to finally get a female president in france                                                       sadness  neutral
+10 kanu will make great deals wit trump and bring prosperity to the land                                                            joy  positive
+11 if i had a gun withbullet and i was in a room with hitler stalin and trump id say hey trump and fire off a warning shot      unknown   neutral
+12 trumps election is illegitimate letter to the president                                                                      unknown  negative
+13 the majority have been from left on whites virtually every claim made against trump supporters has been proven false liars   unknown  negative
+14 last time i checked the trump family managed one of the biggest realestate and hotel empires in the worldseems legitboss     unknown   neutral
+15 a rutgers prof got so irate about trump that police tested his sanity                                                        unknown   neutral
+
